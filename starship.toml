@@ -1,0 +1,7 @@
+[character]
+success_symbol = "[➜](bold green)"
+error_symbol = "[➜](bold red)"
+
+[dotnet]
+detect_extensions = ["csproj", "fsproj", "xproj", "sln"]
+symbol = " "
